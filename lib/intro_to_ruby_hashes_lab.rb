@@ -1,4 +1,4 @@
-def my_hash_creator(name:, "Ryan")
+def my_hash_creator(:name, "Ryan")
   # return a hash that includes the key and value parameters passed into this method
 end
 
